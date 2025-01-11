@@ -40,3 +40,9 @@ Insert data into MongoDB, Redis, and Neo4j using the provided queries in the que
 
 6. Run the Main Script
 Execute the main script to see the data flow between databases:
+
+## Team Members
+1. Sravan Kumar Mudireddy
+2. Vaishnavi Rajasekaran
+
+
